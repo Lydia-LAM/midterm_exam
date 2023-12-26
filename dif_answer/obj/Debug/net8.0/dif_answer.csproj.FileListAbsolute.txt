@@ -1,0 +1,14 @@
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\bin\Debug\net8.0\dif_answer.exe
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\bin\Debug\net8.0\dif_answer.deps.json
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\bin\Debug\net8.0\dif_answer.runtimeconfig.json
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\bin\Debug\net8.0\dif_answer.dll
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\bin\Debug\net8.0\dif_answer.pdb
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\obj\Debug\net8.0\dif_answer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\obj\Debug\net8.0\dif_answer.AssemblyInfoInputs.cache
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\obj\Debug\net8.0\dif_answer.AssemblyInfo.cs
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\obj\Debug\net8.0\dif_answer.csproj.CoreCompileInputs.cache
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\obj\Debug\net8.0\dif_answer.dll
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\obj\Debug\net8.0\refint\dif_answer.dll
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\obj\Debug\net8.0\dif_answer.pdb
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\obj\Debug\net8.0\dif_answer.genruntimeconfig.cache
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\dif_answer\obj\Debug\net8.0\ref\dif_answer.dll
