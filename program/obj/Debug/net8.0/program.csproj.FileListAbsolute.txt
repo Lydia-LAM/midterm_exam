@@ -1,0 +1,14 @@
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\bin\Debug\net8.0\program.exe
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\bin\Debug\net8.0\program.deps.json
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\bin\Debug\net8.0\program.runtimeconfig.json
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\bin\Debug\net8.0\program.dll
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\bin\Debug\net8.0\program.pdb
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\obj\Debug\net8.0\program.dll
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\obj\Debug\net8.0\refint\program.dll
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\obj\Debug\net8.0\program.pdb
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+C:\Users\allen\OneDrive\Рабочий стол\csnew\midterm_1\program\obj\Debug\net8.0\ref\program.dll
